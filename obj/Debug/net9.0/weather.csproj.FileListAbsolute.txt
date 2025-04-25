@@ -12,3 +12,4 @@
 /Users/ivakrapiva/Downloads/weather/obj/Debug/net9.0/weather.pdb
 /Users/ivakrapiva/Downloads/weather/obj/Debug/net9.0/weather.genruntimeconfig.cache
 /Users/ivakrapiva/Downloads/weather/obj/Debug/net9.0/ref/weather.dll
+/Users/ivakrapiva/Downloads/weather/obj/Debug/net9.0/weather.sourcelink.json
