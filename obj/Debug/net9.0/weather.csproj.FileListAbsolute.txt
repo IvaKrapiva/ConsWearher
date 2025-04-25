@@ -1,0 +1,14 @@
+/Users/ivakrapiva/Downloads/weather/bin/Debug/net9.0/weather
+/Users/ivakrapiva/Downloads/weather/bin/Debug/net9.0/weather.deps.json
+/Users/ivakrapiva/Downloads/weather/bin/Debug/net9.0/weather.runtimeconfig.json
+/Users/ivakrapiva/Downloads/weather/bin/Debug/net9.0/weather.dll
+/Users/ivakrapiva/Downloads/weather/bin/Debug/net9.0/weather.pdb
+/Users/ivakrapiva/Downloads/weather/obj/Debug/net9.0/weather.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivakrapiva/Downloads/weather/obj/Debug/net9.0/weather.AssemblyInfoInputs.cache
+/Users/ivakrapiva/Downloads/weather/obj/Debug/net9.0/weather.AssemblyInfo.cs
+/Users/ivakrapiva/Downloads/weather/obj/Debug/net9.0/weather.csproj.CoreCompileInputs.cache
+/Users/ivakrapiva/Downloads/weather/obj/Debug/net9.0/weather.dll
+/Users/ivakrapiva/Downloads/weather/obj/Debug/net9.0/refint/weather.dll
+/Users/ivakrapiva/Downloads/weather/obj/Debug/net9.0/weather.pdb
+/Users/ivakrapiva/Downloads/weather/obj/Debug/net9.0/weather.genruntimeconfig.cache
+/Users/ivakrapiva/Downloads/weather/obj/Debug/net9.0/ref/weather.dll
